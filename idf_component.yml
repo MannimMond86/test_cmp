@@ -1,0 +1,11 @@
+version: "0.0.1"
+description: "This is a test component"
+url: "https://github.com/MannimMond86/test_cmp"  # The homepage of the component. It can be a GitHub repository page.
+
+maintainers:
+  - First Last <email@example.com>
+
+targets:
+  - esp32
+
+registry_url: https://components-staging.espressif.com

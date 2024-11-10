@@ -1,0 +1,7 @@
+description: This is a test component
+maintainers:
+- First Last <email@example.com>
+targets:
+- esp32
+url: https://github.com/MannimMond86/test_cmp
+version: 0.0.1
